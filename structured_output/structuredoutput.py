@@ -5,7 +5,7 @@ from typing import TypedDict
 from pydantic import BaseModel
 
 
-#scheme
+#sch
 
 class Review(TypedDict):
     answer: str
